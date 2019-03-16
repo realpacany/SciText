@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class TexteditorConfig(AppConfig):
-    name = 'TextEditor'
+    name = 'text_editor'
